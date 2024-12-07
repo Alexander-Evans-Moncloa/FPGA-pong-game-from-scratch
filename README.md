@@ -53,4 +53,4 @@ This project celebrates the fusion of creativity and technical expertise, tackli
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/FPGA-pong-game-from-scratch.git  
+   git clone https://github.com/Alexander-Evans-Moncloa/FPGA-pong-game-from-scratch.git  
