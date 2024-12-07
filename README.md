@@ -1,12 +1,12 @@
 # FPGA Pong Game and Custom CPU Design  
 
 ## Overview  
-This repository contains the design and implementation of a fully functional computer from scratch using an FPGA, programmed in SystemVerilog. The project culminates in running the classic game Pong, displayed on a VGA monitor. It demonstrates expertise in digital systems design, low-level hardware development, and optimization of computational architecture.  
+This repository contains the design and implementation of a fully functional computer from scratch using an FPGA, programmed in SystemVerilog. The project culminates in running the classic game Pong, displayed on a VGA monitor. It demonstrates expertise in digital systems design, low-level hardware development, and optimisation of computational architecture.  
 
 ## Project Description  
 This project showcases the development of a custom CPU designed entirely from scratch, including its key components such as the Arithmetic Logic Unit (ALU), Program Counter (PC), Register File, and VGA Controller. The design was implemented on an FPGA platform, programmed using SystemVerilog. The CPU's architecture and logic were meticulously designed to execute basic operations and interface with external peripherals such as a VGA display.  
 
-The final achievement was running a fully functional Pong game, rendered in real-time on a VGA-connected monitor. This project highlights the integration of hardware modules and the synchronization of digital circuits to achieve a robust and optimized computer system.  
+The final achievement was running a fully functional Pong game, rendered in real-time on a VGA-connected monitor. This project highlights the integration of hardware modules and the synchronisation of digital circuits to achieve a robust and optimised computer system.  
 
 ## Key Features  
 - **Custom CPU Design:**  
@@ -16,10 +16,10 @@ The final achievement was running a fully functional Pong game, rendered in real
   Leveraged SystemVerilog to program the FPGA, enabling the development of complex logic circuits and modules. Comprehensive test benches were created to validate the functionality of individual components and the overall system.  
 
 - **VGA Display Interface:**  
-  Implemented a VGA controller to generate video signals for rendering the Pong game on a monitor. This included managing pixel generation, synchronization, and video timing.  
+  Implemented a VGA controller to generate video signals for rendering the Pong game on a monitor. This included managing pixel generation, synchronisation, and video timing.  
 
-- **Hardware Optimization:**  
-  Minimized FPGA resource utilization while maintaining functional integrity through careful design and optimization of CPU components.  
+- **Hardware Optimisation:**  
+  Minimised FPGA resource utilisation while maintaining functional integrity through careful design and optimisation of CPU components.  
 
 - **Game Implementation:**  
   Successfully programmed the Pong game to run on the custom-built CPU, demonstrating the system’s capability to interface with peripherals and execute real-time operations.  
@@ -38,7 +38,7 @@ The final achievement was running a fully functional Pong game, rendered in real
   Comprehensive test benches were developed to simulate each module and verify the overall system performance.  
 
 - **VGA Display:**  
-  Integrated a VGA interface for visual output, enabling real-time game rendering and synchronization.  
+  Integrated a VGA interface for visual output, enabling real-time game rendering and synchronisation.  
 
 ## Directory Structure  
 - **ArithmeticLogicUnit:** Contains the design files for the ALU module.  
@@ -48,9 +48,6 @@ The final achievement was running a fully functional Pong game, rendered in real
 - **RegisterFile:** Design files for the Register File module.  
 - **VGAController:** VGA interface design files for generating the game display.  
 - **README.md:** Project overview and description.  
-- **Reports:** Includes detailed documentation of the project, such as:  
-  - `aeem20_individual_report.pdf`: Detailed individual project report for turbine blade optimization.  
-  - `team3_report_final.pdf`: Final report for team-based blackbox generator and turbine farm optimization.  
 
 ## Getting Started  
 1. Clone this repository:  
